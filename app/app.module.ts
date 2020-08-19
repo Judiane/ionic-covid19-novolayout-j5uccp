@@ -16,6 +16,9 @@ import { FrutasComponent } from '../pages/frutas/frutas.component';
 
 import { VegetaisComponent } from '../pages/vegetais/vegetais.component';
 
+import { ZincoComponent  }  from '../pages/zinco/zinco.component';
+
+
 
 @NgModule({
   declarations: [
@@ -25,7 +28,8 @@ import { VegetaisComponent } from '../pages/vegetais/vegetais.component';
     MetodoexercicioComponent,
     MetodovitaminaComponent,
     FrutasComponent,
-    VegetaisComponent
+    VegetaisComponent,
+    ZincoComponent
     
   
     
@@ -43,7 +47,8 @@ import { VegetaisComponent } from '../pages/vegetais/vegetais.component';
     MetodoexercicioComponent,
     MetodovitaminaComponent,
     FrutasComponent,
-    VegetaisComponent
+    VegetaisComponent,
+    ZincoComponent
   
   
   ],
