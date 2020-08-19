@@ -11,7 +11,10 @@ import { MetodoalimentoComponent } from '../pages/metodoalimento/metodoalimento.
 import { MetodoexercicioComponent } from '../pages/metodoexercicio/metodoexercicio.component';
 import { MetodovitaminaComponent } from '../pages/metodovitamina/metodovitamina.component';
 
+
 import { FrutasComponent } from '../pages/frutas/frutas.component';
+
+import { VegetaisComponent } from '../pages/vegetais/vegetais.component';
 
 
 @NgModule({
@@ -21,7 +24,8 @@ import { FrutasComponent } from '../pages/frutas/frutas.component';
     MetodoalimentoComponent,
     MetodoexercicioComponent,
     MetodovitaminaComponent,
-    FrutasComponent
+    FrutasComponent,
+    VegetaisComponent
     
   
     
@@ -38,7 +42,8 @@ import { FrutasComponent } from '../pages/frutas/frutas.component';
     MetodoalimentoComponent,
     MetodoexercicioComponent,
     MetodovitaminaComponent,
-    FrutasComponent
+    FrutasComponent,
+    VegetaisComponent
   
   
   ],
