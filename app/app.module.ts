@@ -18,6 +18,8 @@ import { VegetaisComponent } from '../pages/vegetais/vegetais.component';
 
 import { ZincoComponent  }  from '../pages/zinco/zinco.component';
 
+import { OleaginosasComponent  }  from '../pages/oleaginosas/oleaginosas.component';
+
 
 
 @NgModule({
@@ -29,7 +31,8 @@ import { ZincoComponent  }  from '../pages/zinco/zinco.component';
     MetodovitaminaComponent,
     FrutasComponent,
     VegetaisComponent,
-    ZincoComponent
+    ZincoComponent,
+    OleaginosasComponent
     
   
     
@@ -48,7 +51,8 @@ import { ZincoComponent  }  from '../pages/zinco/zinco.component';
     MetodovitaminaComponent,
     FrutasComponent,
     VegetaisComponent,
-    ZincoComponent
+    ZincoComponent,
+    OleaginosasComponent
   
   
   ],

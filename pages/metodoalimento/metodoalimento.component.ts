@@ -7,6 +7,8 @@ import { NavController } from 'ionic-angular';
 
  import { ZincoComponent  }  from '../zinco/zinco.component';
 
+ import { OleaginosasComponent  }  from '../oleaginosas/oleaginosas.component';
+
 @Component({
 
   templateUrl: './metodoalimento.component.html',
@@ -28,10 +30,14 @@ export class MetodoalimentoComponent  {
    this.navCtrl.push(VegetaisComponent);
   }
 
-  
   public Zinco() {
 
    this.navCtrl.push(ZincoComponent);
+  }
+
+  public Oleaginosas() {
+
+   this.navCtrl.push(OleaginosasComponent);
   }
 
 }
