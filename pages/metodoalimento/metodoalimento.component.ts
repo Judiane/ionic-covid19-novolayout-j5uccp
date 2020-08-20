@@ -13,6 +13,8 @@ import { OmegaComponent } from "../omega/omega.component";
 
 import { GengibreComponent } from "../gengibre/gengibre.component";
 
+import { PimentaComponent  }  from '../pimenta/pimenta.component';
+
 @Component({
   templateUrl: "./metodoalimento.component.html",
   styleUrls: ["./metodoalimento.component.css"]
@@ -43,5 +45,9 @@ export class MetodoalimentoComponent {
 
   public Gengibre() {
     this.navCtrl.push(GengibreComponent);
+  }
+
+  public Pimenta() {
+    this.navCtrl.push(PimentaComponent);
   }
 }

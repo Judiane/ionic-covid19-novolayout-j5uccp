@@ -24,9 +24,7 @@ import { OmegaComponent  }  from '../pages/omega/omega.component';
 
 import { GengibreComponent  }  from '../pages/gengibre/gengibre.component';
 
-
-
-
+import { PimentaComponent  }  from '../pages/pimenta/pimenta.component';
 
 
 
@@ -42,7 +40,8 @@ import { GengibreComponent  }  from '../pages/gengibre/gengibre.component';
     ZincoComponent,
     OleaginosasComponent,
     OmegaComponent,
-    GengibreComponent
+    GengibreComponent,
+    PimentaComponent
     
   
     
@@ -64,7 +63,8 @@ import { GengibreComponent  }  from '../pages/gengibre/gengibre.component';
     ZincoComponent,
     OleaginosasComponent,
     OmegaComponent,
-    GengibreComponent
+    GengibreComponent,
+    PimentaComponent
   
   
   ],

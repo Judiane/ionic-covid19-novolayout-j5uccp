@@ -6,7 +6,7 @@ import { NavController } from 'ionic-angular';
   templateUrl: './gengibre.component.html',
   styleUrls: ['./gengibre.component.css']
 })
-export class GengibreComponent implements OnInit {
+export class GengibreComponent  {
 
 constructor(public navCtrl: NavController) { }
 
