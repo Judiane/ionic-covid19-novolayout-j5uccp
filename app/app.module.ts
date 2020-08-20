@@ -26,6 +26,8 @@ import { GengibreComponent  }  from '../pages/gengibre/gengibre.component';
 
 import { PimentaComponent  }  from '../pages/pimenta/pimenta.component';
 
+import { AlhoComponent  }  from '../pages/alho/alho.component';
+
 
 
 @NgModule({
@@ -41,7 +43,8 @@ import { PimentaComponent  }  from '../pages/pimenta/pimenta.component';
     OleaginosasComponent,
     OmegaComponent,
     GengibreComponent,
-    PimentaComponent
+    PimentaComponent,
+    AlhoComponent
     
   
     
@@ -64,7 +67,8 @@ import { PimentaComponent  }  from '../pages/pimenta/pimenta.component';
     OleaginosasComponent,
     OmegaComponent,
     GengibreComponent,
-    PimentaComponent
+    PimentaComponent,
+    AlhoComponent
   
   
   ],
