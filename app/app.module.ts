@@ -22,6 +22,12 @@ import { OleaginosasComponent  }  from '../pages/oleaginosas/oleaginosas.compone
 
 import { OmegaComponent  }  from '../pages/omega/omega.component';
 
+import { GengibreComponent  }  from '../pages/gengibre/gengibre.component';
+
+
+
+
+
 
 
 @NgModule({
@@ -35,7 +41,8 @@ import { OmegaComponent  }  from '../pages/omega/omega.component';
     VegetaisComponent,
     ZincoComponent,
     OleaginosasComponent,
-    OmegaComponent
+    OmegaComponent,
+    GengibreComponent
     
   
     
@@ -56,7 +63,8 @@ import { OmegaComponent  }  from '../pages/omega/omega.component';
     VegetaisComponent,
     ZincoComponent,
     OleaginosasComponent,
-    OmegaComponent
+    OmegaComponent,
+    GengibreComponent
   
   
   ],
