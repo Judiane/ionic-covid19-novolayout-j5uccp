@@ -28,6 +28,10 @@ import { PimentaComponent  }  from '../pages/pimenta/pimenta.component';
 
 import { AlhoComponent  }  from '../pages/alho/alho.component';
 
+import { CebolaComponent  }  from '../pages/cebola/cebola.component';
+
+
+
 
 
 @NgModule({
@@ -44,7 +48,8 @@ import { AlhoComponent  }  from '../pages/alho/alho.component';
     OmegaComponent,
     GengibreComponent,
     PimentaComponent,
-    AlhoComponent
+    AlhoComponent,
+    CebolaComponent
     
   
     
@@ -68,7 +73,8 @@ import { AlhoComponent  }  from '../pages/alho/alho.component';
     OmegaComponent,
     GengibreComponent,
     PimentaComponent,
-    AlhoComponent
+    AlhoComponent,
+    CebolaComponent
   
   
   ],

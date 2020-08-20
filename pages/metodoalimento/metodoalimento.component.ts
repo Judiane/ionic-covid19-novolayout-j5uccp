@@ -17,6 +17,8 @@ import { PimentaComponent  }  from '../pimenta/pimenta.component';
 
 import { AlhoComponent  }  from '../alho/alho.component';
 
+import { CebolaComponent  }  from '../cebola/cebola.component';
+
 @Component({
   templateUrl: "./metodoalimento.component.html",
   styleUrls: ["./metodoalimento.component.css"]
@@ -55,5 +57,9 @@ export class MetodoalimentoComponent {
 
   public Alho() {
     this.navCtrl.push(AlhoComponent);
+  }
+
+  public Cebola() {
+    this.navCtrl.push(CebolaComponent);
   }
 }
