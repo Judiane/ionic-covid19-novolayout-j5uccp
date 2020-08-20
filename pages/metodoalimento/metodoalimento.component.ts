@@ -9,6 +9,8 @@ import { NavController } from 'ionic-angular';
 
  import { OleaginosasComponent  }  from '../oleaginosas/oleaginosas.component';
 
+ import { OmegaComponent  }  from '../omega/omega.component';
+
 @Component({
 
   templateUrl: './metodoalimento.component.html',
@@ -38,6 +40,12 @@ export class MetodoalimentoComponent  {
   public Oleaginosas() {
 
    this.navCtrl.push(OleaginosasComponent);
+  }
+
+
+  public Omega() {
+
+   this.navCtrl.push(OmegaComponent);
   }
 
 }
