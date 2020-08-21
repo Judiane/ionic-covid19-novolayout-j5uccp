@@ -30,6 +30,10 @@ import { AlhoComponent  }  from '../pages/alho/alho.component';
 
 import { CebolaComponent  }  from '../pages/cebola/cebola.component';
 
+import { GeleiaComponent  }  from '../pages/geleia/geleia.component';
+
+
+
 
 
 
@@ -49,7 +53,8 @@ import { CebolaComponent  }  from '../pages/cebola/cebola.component';
     GengibreComponent,
     PimentaComponent,
     AlhoComponent,
-    CebolaComponent
+    CebolaComponent,
+    GeleiaComponent
     
   
     
@@ -74,7 +79,8 @@ import { CebolaComponent  }  from '../pages/cebola/cebola.component';
     GengibreComponent,
     PimentaComponent,
     AlhoComponent,
-    CebolaComponent
+    CebolaComponent,
+    GeleiaComponent
   
   
   ],
